@@ -81,7 +81,7 @@ A powerful Android downloader for videos, audio, GIFs, and photos from YouTube, 
 
 | Home | Format Picker | Clip Cutter | Player |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/home.png" width="180"/> | <img src="screenshots/formats.png" width="180"/> | <img src="screenshots/clip.png" width="180"/> | <img src="screenshots/player.png" width="180"/> |
+| <img src="home.jpg" width="180"/> | <img src="clip cutter.jpg" width="180"/> | <img src="my download &  music player.jpg" width="180"/> | <img 
 
 </div>
 
