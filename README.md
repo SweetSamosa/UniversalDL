@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="UniversalDL Logo" width="120" height="120"/>
+<img src="logo.png" alt="UniversalDL Logo" width="120" height="120"/>
 
 # UniversalDL
 
